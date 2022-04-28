@@ -1,0 +1,4 @@
+0: This is Star_Wars. It is feature film. Director is Lucas
+This picture was filmed in USA
+1: 
+2: 

@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1967,5): warning : The referenced project '..\..\TMPlab1_OOP\TMPlab1_OOP\TMPlab1_OOP.vcxproj' does not exist.
+  pch.cpp
+  UnitTestTMPlab4.cpp
+C:\Users\bushd\source\repos\TMPlab1_OOP\TMPlab1_OOP\Source.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+  LINK : C:\Users\bushd\source\repos\TMP_lab_No4_OOP\Debug\UnitTestTMPlab4.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\bushd\source\repos\TMP_lab_No4_OOP\Debug\UnitTestTMPlab4.lib and object C:\Users\bushd\source\repos\TMP_lab_No4_OOP\Debug\UnitTestTMPlab4.exp
+  UnitTestTMPlab4.vcxproj -> C:\Users\bushd\source\repos\TMP_lab_No4_OOP\Debug\UnitTestTMPlab4.dll
